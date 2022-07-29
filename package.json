@@ -1,0 +1,24 @@
+{
+  "name": "primer_trabajo",
+  "version": "1.0.0",
+  "description": "aguante_boquita",
+  "main": "index.js",
+  "scripts": {
+    "start": "node boquita.js",
+    
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riquiamado/obc.git"
+  },
+  "keywords": [
+    "\"daleboo\""
+  ],
+  "author": "riquiamado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riquiamado/obc/issues"
+  },
+  "homepage": "https://github.com/riquiamado/obc#readme"
+}
