@@ -1,1 +1,18 @@
 
+
+- Tu nombre ("Carlos Amado")
+
+- Tu edad (51)
+
+- ¿Eres desarrollador? (true)
+  
+- Tu fecha de nacimiento ("22/04/1971" )
+
+- Tu libro favorito (Objeto con propiedades: titulo, autor, fecha, url)
+  const libroFavorito{
+    titulo : "padre rico padre pobre",
+    autor : "Robert Kiyosaki",
+    fecha : 1997,
+    url :"//www.unpa.edu.mx "
+    
+  }
